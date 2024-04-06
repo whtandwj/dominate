@@ -1,0 +1,9 @@
+server:
+  port: 8012
+spring:
+  application:
+    name: casia-bm-api-module-sys
+  profiles:
+    active: basic,dev
+    #active: basic,prod
+    #active: basic,test
